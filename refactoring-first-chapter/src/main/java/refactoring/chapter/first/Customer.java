@@ -1,6 +1,6 @@
 package refactoring.chapter.first;
 
-import chapter.first.Rental;
+import refactoring.chapter.first.Rental;
 
 import java.util.Enumeration;
 import java.util.Vector;
